@@ -10,7 +10,7 @@ exports.menu = (salam, pushname) =>{
 > allmenu untuk menampilkan semua menu
 
 Contak owner number
-Wa.me/+6282115946480
+Wa.me/+60189830350
 `
 } 
 
@@ -327,19 +327,20 @@ return`
 exports.sewabot  = (ownernomer) => {
 	return`
 ┌── 「 *Sewa Bot* 」
-├ Sewa 15k/manen
-├ Sewa 5k/Minggu
-├ sewa 10k/bulan
+├ Sewa Rm 5/1 minggu
+├ Sewa Rm 10/2 Minggu
+├ Sewa Rm 15/3 Minggu
+├ Sewa RM 20/1 bulan
 └───────
 
 ┌── 「 *Jadi Bot* 」
-├ Jadi Bot 30k/bln
-├ Jadi Bot + Owner 35k
-├ Jasa Run Bot 20k
+├ Jadi Bot Rm 10/permanent
+├ Jadi Bot + Owner Rm 15
+├ Jasa Run Bot Rm 10
 └───────
 
 Contact person Owner :
-wa.me/6283808840711
+wa.me/60189830350
 `
 }
 
@@ -717,12 +718,17 @@ exports.ownermenu = (prefix) => {
 exports.thanksto = () => {
 	return`
 ┌── 「 *Thanks To* 」
+├ Allah S.W.T
+├ My parent
 ├ DikaArdnt.
 ├ Zeeoneofc
 ├ FatihArridho
 ├ Sanzy
 ├ Kiki vz.
 ├ RiychDwayne
+├ LynnXzy
+├ Exc
+├ Andrii
 └───────
 `
 }
