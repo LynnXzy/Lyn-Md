@@ -16,23 +16,23 @@ global.APIKeys = {
 }
 
 // Owner
-global.owner = ['6282115946480','6282115946480','6282115946480']
-global.ownernomer = '6282115946480 '
-global.premium = ['6282115946480']
-global.ownername = 'KIKI VZ'
-global.botname = 'VraaBotz'
-global.footer = 'cerated by kiki vz'
-global.email = 'vraakeren@gmail.com'
-global.ig = 'https://youtube.com/channel/UCjjuhOD-Mt2XrKFptMVDysQ'
-global.region = 'jepang'// bebas
+global.owner = ['60189830350','60149431385','+0']
+global.ownernomer = '60189830350'
+global.premium = ['60189830350']
+global.ownername = 'LynnXzy   ?'
+global.botname = 'Lynn'
+global.footer = 'creat by LynnXzy🌺'
+global.email = 'botzlynx@gmail.com'
+global.ig = 'https://youtube.com/channel/UC3Y7rHuI_OmbvFdL88JF7AQ'
+global.region = 'malaysia'// bebas
 
 // Keperluan buttons
-global.myweb = 'https://youtube.com/channel/UCjjuhOD-Mt2XrKFptMVDysQ'
-global.sc = 'https://github.com/kikivz/vraabot-MD'
-global.grupowner ='https://chat.whatsapp.com/JOxS05d1WWO529F40SEVEa'// GRUP LU 
+global.myweb = 'https://youtube.com/channel/UC3Y7rHuI_OmbvFdL88JF7AQ'
+global.sc = 'https://github.com/LynnXzy/Lyn-Md'
+global.grupowner ='https://chat.whatsapp.com/EheAWPrQMhV25xW0N7l7WD'// GRUP LU 
 // Wm
-global.packname = 'kiki'//BEBAS
-global.author = 'vz'
+global.packname = 'Botz'//BEBAS
+global.author = 'Lynn'
 
 // Thumb & Image random
 global.thumb = fs.readFileSync('./image/kiki.jpg')// jangan di ubah nanti eror
